@@ -1,2 +1,2 @@
 # progress
-Single-cell atac-seq workflow
+Single-cell atac-seq
